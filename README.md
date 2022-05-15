@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Segzy2050
+- 👋 Hi, I’m Oluwasegun Alao (@Segzy2050)
 - 👀 I’m interested in a Secured Cyberspace where bad actors are constantly put in check.
 - 🌱 I’m currently learning Cybersecurity Analytics
 - 💞️ I’m looking to collaborate on Systems Automation, Networking and Cloud Security
